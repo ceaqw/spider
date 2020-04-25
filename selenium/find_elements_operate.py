@@ -12,7 +12,7 @@ from selenium.webdriver import ChromeOptions
 
 def deal():
     """
-    抓取页面元素
+    抓取页面元素-
     :return: None
     """
     driver = webdriver.Chrome()
