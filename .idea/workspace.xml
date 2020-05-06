@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eddb0a3-a8b6-4025-a67d-2afbfdff0621" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_process/matplotlib/basic_map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests_demo/Tencent_job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests_demo/theard-auto_home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests_demo/Tencent_job.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests_demo/Tencent_job.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests_demo/lagou_post_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests_demo/lagou_post_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +16,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requests_demo/Tencent_job.py">
+        <entry file="file://$PROJECT_DIR$/requests_demo/theard-auto_home.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+            <state relative-caret-position="271">
+              <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+              <folding>
+                <element signature="e#35#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,12 +87,14 @@
         <option value="$PROJECT_DIR$/scrapy_demo/sina_spider/sina_spider/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapy_demo/sina_spider/sina_spider/spiders/sina.py" />
         <option value="$PROJECT_DIR$/requests_demo/Tencent_job.py" />
+        <option value="$PROJECT_DIR$/requests_demo/lagou_post_data.py" />
+        <option value="$PROJECT_DIR$/requests_demo/theard-auto_home.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="width" value="1331" />
+    <option name="x" value="754" />
+    <option name="width" value="1173" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -100,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,22 +115,13 @@
             <path>
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="requests_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapy_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Tencent_job">
+  <component name="RunManager" selected="Python.theard-auto_home">
     <configuration name="Tencent_job" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="basic_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lagou_post_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_process/matplotlib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_process/matplotlib/basic_map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests_demo/lagou_post_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="theard-auto_home" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +247,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy_demo/wxappspider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy_demo/wxappspider/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests_demo/theard-auto_home.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.theard-auto_home" />
+        <item itemvalue="Python.lagou_post_data" />
         <item itemvalue="Python.Tencent_job" />
         <item itemvalue="Python.satrt" />
         <item itemvalue="Python.sina" />
-        <item itemvalue="Python.basic_map" />
-        <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
@@ -298,23 +293,26 @@
       <workItem from="1588238244510" duration="3078000" />
       <workItem from="1588298936030" duration="3712000" />
       <workItem from="1588320090684" duration="1841000" />
-      <workItem from="1588472467918" duration="4016000" />
+      <workItem from="1588472467918" duration="7824000" />
+      <workItem from="1588589717434" duration="236000" />
+      <workItem from="1588590055569" duration="602000" />
+      <workItem from="1588752394496" duration="3321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61961000" />
+    <option name="totallyTimeSpent" value="69928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="0" width="1331" height="1087" extended-state="0" />
+    <frame x="754" y="0" width="1173" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1534225" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17250673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.17295597" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4874214" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2735849" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,8 +339,10 @@
     <SUITE FILE_PATH="coverage/spider$xpath_demo.coverage" NAME="xpath_demo Coverage Results" MODIFIED="1587964362191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
     <SUITE FILE_PATH="coverage/spider$bmw.coverage" NAME="bmw Coverage Results" MODIFIED="1587981142625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/bmw_pic/bmw_pic/spiders" />
     <SUITE FILE_PATH="coverage/spider$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1587965940919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/bmw_pic/bmw_pic" />
+    <SUITE FILE_PATH="coverage/spider$lagou_post_data.coverage" NAME="lagou_post_data Coverage Results" MODIFIED="1588482060114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$urllib_test.coverage" NAME="urllib_test Coverage Results" MODIFIED="1588044325859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1588159604752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/qsbk_get" />
+    <SUITE FILE_PATH="coverage/spider$theard_auto_home.coverage" NAME="theard-auto_home Coverage Results" MODIFIED="1588756679921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$json_demo.coverage" NAME="json_demo Coverage Results" MODIFIED="1587888858467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
     <SUITE FILE_PATH="coverage/spider$captcha_recognizer.coverage" NAME="captcha_recognizer Coverage Results" MODIFIED="1588064126268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
     <SUITE FILE_PATH="coverage/spider$re_demo.coverage" NAME="re_demo Coverage Results" MODIFIED="1587892565260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
@@ -350,41 +350,11 @@
     <SUITE FILE_PATH="coverage/spider$satrt.coverage" NAME="satrt Coverage Results" MODIFIED="1588302532835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/sina_spider" />
     <SUITE FILE_PATH="coverage/spider$requets_re.coverage" NAME="requets_re Coverage Results" MODIFIED="1587896309604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1588153887661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/douban_login" />
-    <SUITE FILE_PATH="coverage/spider$Tencent_job.coverage" NAME="Tencent_job Coverage Results" MODIFIED="1588476584907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
+    <SUITE FILE_PATH="coverage/spider$Tencent_job.coverage" NAME="Tencent_job Coverage Results" MODIFIED="1588480511565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$dytt_videos.coverage" NAME="dytt_videos Coverage Results" MODIFIED="1588060992753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests_demo" />
     <SUITE FILE_PATH="coverage/spider$sina.coverage" NAME="sina Coverage Results" MODIFIED="1588302215015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_demo/sina_spider/sina_spider/spiders" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requests_demo/movies.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests_demo/dytt_videos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#45#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_process/xpath_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_process/captcha_recognizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#41#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapy_demo/bmw_pic/start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -655,10 +625,37 @@
         <state relative-caret-position="-132" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/repuests_post.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/lagou_post_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requests_demo/Tencent_job.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        <state relative-caret-position="752">
+          <caret line="58" column="29" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6843">
+          <caret line="756" column="8" selection-start-line="756" selection-start-column="8" selection-end-line="756" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_demo/theard-auto_home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+          <folding>
+            <element signature="e#35#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

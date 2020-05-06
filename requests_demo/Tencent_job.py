@@ -56,4 +56,4 @@ def job_list_page(categoryName, categoryId):
 
 
 if __name__ == '__main__':
-    get_class_url()
+    job_list_page("11","40001")
