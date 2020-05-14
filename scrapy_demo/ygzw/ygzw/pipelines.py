@@ -6,7 +6,8 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 from pymongo import MongoClient
-from .settings import MONGO_HOST
+# from .settings import MONGO_HOST
+
 
 class YgzwPipeline(object):
     def __init__(self):
